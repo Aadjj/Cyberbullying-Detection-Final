@@ -77,6 +77,5 @@ elif option == 'Image':
 st.markdown("---")
 st.write("Developed by Syed Adnan Ahmed,"
          " Aitham Meghana,"
-         " Syed Talal Amjad."
-         " For any inquiries or feedback, please contact us at aadjj41@gmail.com.")
-
+         " Syed Talal Amjad.")
+st.write(" For any inquiries or feedback, please contact us at aadjj41@gmail.com.")
