@@ -78,5 +78,4 @@ st.write("Developed by Syed Adnan Ahmed,"
          " Aitham Meghana,"
          " Syed Talal Amjad."
          " For any inquiries or feedback, please contact us at aadjj41@gmail.com.")
-st.write(
-    "Learn more about cyberbullying and online safety [here](https://www.stopbullying.gov/cyberbullying/what-is-it).")
+
