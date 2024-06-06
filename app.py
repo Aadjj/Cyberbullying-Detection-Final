@@ -71,3 +71,12 @@ elif option == 'Image':
     if uploaded_file is not None:
         with st.spinner('Processing image...'):
             process_image(uploaded_file)
+
+# Footer
+st.markdown("---")
+st.write("Developed by Syed Adnan Ahmed,"
+         " Aitham Meghana,"
+         " Syed Talal Amjad."
+         " For any inquiries or feedback, please contact us at aadjj41@gmail.com.")
+st.write(
+    "Learn more about cyberbullying and online safety [here](https://www.stopbullying.gov/cyberbullying/what-is-it).")
