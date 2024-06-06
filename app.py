@@ -45,10 +45,11 @@ def process_image(image):
 # Streamlit UI
 st.set_page_config(page_title="Cyberbullying Detection", page_icon=":shield:", layout="wide")
 st.title('Cyberbullying Detection')
+st.write("A free to use website for Cyberbullying Detection.")
 st.markdown("---")
 
 # Sidebar
-st.sidebar.title("Options")
+st.sidebar.title("Cyberbullying Detection")
 option = st.sidebar.selectbox(
     'Select Input Type',
     ('Text', 'Image')
